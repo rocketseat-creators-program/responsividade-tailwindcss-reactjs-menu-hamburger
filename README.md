@@ -1,4 +1,4 @@
-![Rocketseat+](https://drive.google.com/uc?id=1XPWLjUo2-j8iGw07ALcxu7oqJ3nkl2Ho)
+<img src="https://drive.google.com/uc?id=1XPWLjUo2-j8iGw07ALcxu7oqJ3nkl2Ho" alt="Rocketseat+"/>
 
 # Responsividade com TailwindCSS e ReactJS - Criando um Menu Hamburger
 
