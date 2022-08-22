@@ -1,4 +1,4 @@
-<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+![Rocketseat+](https://drive.google.com/uc?id=1XPWLjUo2-j8iGw07ALcxu7oqJ3nkl2Ho)
 
 # Responsividade com TailwindCSS e ReactJS - Criando um Menu Hamburger
 
